@@ -32,7 +32,7 @@ a{
 /* alinhando a parte de cima e a parte de baixo */
 header, footer{
     text-align: center;
-    background-color: rgba(217, 217, 217, 0.8);
+    background-color: rgba(6, 95, 36, 0.8);
 }
 
 header{border-bottom: solid 1px;
