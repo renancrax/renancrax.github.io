@@ -219,7 +219,7 @@ button:hover, button:focus{
 
 .voltar-topo{display:none;}
 /* Criamos uma limitação quanto a largura máxima para a classe container */
-.container{max-width: 1000;}
+.container{max-width: 1000px;}
 }
 
 
